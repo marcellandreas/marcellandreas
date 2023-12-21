@@ -1,6 +1,6 @@
 ![ma](https://user-images.githubusercontent.com/111653735/189487290-ff396a9b-f093-4a53-9fd3-f806ff413509.gif)
 
-### Hi there 👋
+### Hi there I'M Marcell Andreas Samadhani Duha 👋
 
 <!--
 **marcellandreas/marcellandreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
