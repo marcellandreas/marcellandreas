@@ -1,6 +1,6 @@
 ![ma](https://user-images.githubusercontent.com/111653735/189487290-ff396a9b-f093-4a53-9fd3-f806ff413509.gif)
 
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya [Marcell Andreas Samadhani Duha] 👋
 
 Selamat datang di profil GitHub saya! Saya adalah seorang front-end developer yang bersemangat dengan latar belakang yang kuat dalam menciptakan aplikasi web responsif dan ramah pengguna. Berikut adalah sedikit tentang saya dan apa yang saya kerjakan:
 
