@@ -34,8 +34,8 @@ Saya memiliki pengalaman sebagai developer front-end dengan fokus pada pengemban
 Saya selalu terbuka untuk kolaborasi dan peluang baru. Jangan ragu untuk menghubungi saya melalui:
 
 - **Email:** [marcellandreas.123@gmail.com](mailto:marcellandreas.123@gmail.com)
-- **LinkedIn:** [Profil LinkedIn Anda](<[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/marcell-andreas-samadhani-duha/)>)
-- **Situs/Portfolio:** [Situs Anda](https://yourwebsite.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marcell-andreas)
+- **Portfolio:** [Portfolio](https://yourwebsite.com)
 
 ## 📊 Statistik GitHub
 
