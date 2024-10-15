@@ -18,6 +18,14 @@ Saya memiliki pengalaman sebagai developer front-end dengan fokus pada pengemban
 - Berpartisipasi dalam **Kelas Gratis: Dasar-Dasar Data Science** oleh DQLab.
 - Membuat dan menguji beberapa endpoint menggunakan Hapi untuk integrasi backend.
 
+## Web Portofolio
+
+| Project Name    | Link Deploy    | Repositoy Github     | Tech Stack |
+|------------|------------|------------| ------------     |-----------  |
+| Baris 1    | Data 1     | Data 2     |                  |            |
+| Baris 2    | Data 3     | Data 4     |                  |            |
+| Baris 3    | Data 5     | Data 6     |                  |            |
+
 ## 🤝 Hubungi Saya
 Saya selalu terbuka untuk kolaborasi dan peluang baru. Jangan ragu untuk menghubungi saya melalui:
 - **Email:** [marcellandreas.123@gmail.com](mailto:marcellandreas.123@gmail.com)
