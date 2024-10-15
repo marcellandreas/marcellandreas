@@ -25,7 +25,7 @@ Saya selalu terbuka untuk kolaborasi dan peluang baru. Jangan ragu untuk menghub
 - **Situs/Portfolio:** [Situs Anda](https://yourwebsite.com)
 
 ## 📊 Statistik GitHub
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=davidnasrulloh&show_icons=true&theme=radical)
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=marcellandreas&show_icons=true&theme=radical)
 
 Terima kasih telah mengunjungi profil saya. Saya selalu terbuka untuk kolaborasi dan peluang baru. Jangan ragu untuk menghubungi saya!
 
