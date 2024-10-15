@@ -23,11 +23,11 @@ Saya memiliki pengalaman sebagai developer front-end dengan fokus pada pengemban
 
 ## Web Portofolio
 
-| No  | Nama Proyek                   | Link Deploy                                                 | Link Repo GitHub                                                                    | Teknologi                                             |
-| --- | ----------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 1   | Mini Project - Booking Ticket | [Link Deploy 1](https://website-portfolio-rust.vercel.app/) | [Link Repo 1](https://github.com/marcellandreas/miniproject-alterra-booking-ticket) | React.js, Public API TMDB, Bootstrap, Firebase, Redux |
-| 2   | MYCuan                        | [Link Deploy 2](https://ppob-react-js.vercel.app/)          | [Link Repo 2](https://github.com/capstone-proj-alterra-kel2/PPOB_ReactJS)           | React.js                                              |
-| 3   | Website Portofolio            | [Link Deploy 3](https://website-portfolio-rust.vercel.app/) | [Link Repo 3](https://github.com/marcellandreas/website-portfolio-marcell)          | React.js                                              |
+| No  | Nama Proyek                   | Link Deploy                                          | Link Repo GitHub                                                                  | Teknologi                                             |
+| --- | ----------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 1   | Mini Project - Booking Ticket | [Deploy](https://website-portfolio-rust.vercel.app/) | [Link Repo](https://github.com/marcellandreas/miniproject-alterra-booking-ticket) | React.js, Public API TMDB, Bootstrap, Firebase, Redux |
+| 2   | MYCuan                        | [Deploy](https://ppob-react-js.vercel.app/)          | [Link Repo](https://github.com/capstone-proj-alterra-kel2/PPOB_ReactJS)           | React.js                                              |
+| 3   | Website Portofolio            | [Deploy](https://website-portfolio-rust.vercel.app/) | [Link Repo](https://github.com/marcellandreas/website-portfolio-marcell)          | React.js                                              |
 
 ## 🤝 Hubungi Saya
 
