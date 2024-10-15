@@ -23,11 +23,11 @@ Saya memiliki pengalaman sebagai developer front-end dengan fokus pada pengemban
 
 ## Web Portofolio
 
-| Nama Proyek | Deskripsi          | Link Deploy                             | Link Repo GitHub                                   | Teknologi      |
-| ----------- | ------------------ | --------------------------------------- | -------------------------------------------------- | -------------- |
-| Proyek 1    | Deskripsi proyek 1 | [Link Deploy 1](http://linkdeploy1.com) | [Link Repo 1](https://github.com/username/proyek1) | HTML, CSS      |
-| Proyek 2    | Deskripsi proyek 2 | [Link Deploy 2](http://linkdeploy2.com) | [Link Repo 2](https://github.com/username/proyek2) | React, Node.js |
-| Proyek 3    | Deskripsi proyek 3 | [Link Deploy 3](http://linkdeploy3.com) | [Link Repo 3](https://github.com/username/proyek3) | Vue.js         |
+| Nama Proyek                    | Deskripsi          | Link Deploy                                                 | Link Repo GitHub                                                                    | Teknologi                                             |
+| ------------------------------ | ------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Mini Project - Booking Ticktet | Deskripsi proyek 1 | [Link Deploy 1](https://website-portfolio-rust.vercel.app/) | [Link Repo 1](https://github.com/marcellandreas/miniproject-alterra-booking-ticket) | React.js, Public Api TMDB, bootstrap, firebase, redux |
+| MYCuan                         | Deskripsi proyek 2 | [Link Deploy 2](https://ppob-react-js.vercel.app/)          | [Link Repo 2](https://github.com/capstone-proj-alterra-kel2/PPOB_ReactJS)           | React.js                                              |
+| Proyek 3                       | Deskripsi proyek 3 | [Link Deploy 3](https://website-portfolio-rust.vercel.app/) | [Link Repo 3](https://github.com/marcellandreas/website-portfolio-marcell)          | React.js                                              |
 
 ## 🤝 Hubungi Saya
 
@@ -35,7 +35,7 @@ Saya selalu terbuka untuk kolaborasi dan peluang baru. Jangan ragu untuk menghub
 
 - **Email:** [marcellandreas.123@gmail.com](mailto:marcellandreas.123@gmail.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marcell-andreas)
-- **Portfolio:** [Portfolio](https://yourwebsite.com)
+- **Portfolio:** [Portfolio](https://website-portfolio-rust.vercel.app/)
 
 ## 📊 Statistik GitHub
 
