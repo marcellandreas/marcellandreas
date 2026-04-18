@@ -3,15 +3,18 @@
   <i>Software Engineer • Full-stack Developer</i>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcellandreas&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=9ea3a0&icon_color=586069" alt="Stats" width="400" />
+</p>
 
 ---
 
 ### /dev/null
 
-Seorang pengembang yang lebih memilih efisiensi daripada eksibisi. Fokus pada arsitektur yang bersih, konkurensi, dan sistem yang terukur. 
+A developer prioritizing efficiency over exhibition. Focused on clean architecture, concurrency, and scalable systems.
 
-- **Fokus Saat Ini:** Backend systems, Go, dan Cloud Architecture.
-- **Filosofi:** *"Code is like humor. When you have to explain it, it’s bad."*
+- **Current Focus:** Backend engineering with Go and high-performance Frontend via TypeScript.
+- **Philosophy:** *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
@@ -23,4 +26,7 @@ Seorang pengembang yang lebih memilih efisiensi daripada eksibisi. Fokus pada ar
 ### Connect
 [LinkedIn](https://linkedin.com/in/marcell-andreas) / [Email](mailto:marcell@example.com)
 
-
+---
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellandreas&theme=transparent&hide_border=true&stroke=586069&ring=9ea3a0&fire=9ea3a0&currStreakNum=fff" alt="Streak" width="350" />
+</p>
