@@ -24,7 +24,7 @@ Seorang pengembang yang lebih memilih efisiensi daripada eksibisi. Fokus pada ar
 ---
 
 ### Connect
-[LinkedIn](https://linkedin.com/in/marcell-andreas) / [Instagram](https://instagram.com/mrcll_ndrs) / [Email](mailto:marcell@example.com)
+[LinkedIn](https://linkedin.com/in/marcell-andreas) / [Email](mailto:marcell@example.com)
 
 ---
 <p align="center">
