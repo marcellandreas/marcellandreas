@@ -3,9 +3,6 @@
   <i>Software Engineer • Full-stack Developer</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcellandreas&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=9ea3a0&icon_color=586069" alt="Stats" width="400" />
-</p>
 
 ---
 
