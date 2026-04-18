@@ -23,7 +23,4 @@ Seorang pengembang yang lebih memilih efisiensi daripada eksibisi. Fokus pada ar
 ### Connect
 [LinkedIn](https://linkedin.com/in/marcell-andreas) / [Email](mailto:marcell@example.com)
 
----
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellandreas&theme=transparent&hide_border=true&stroke=586069&ring=9ea3a0&fire=9ea3a0&currStreakNum=fff" alt="Streak" width="350" />
-</p>
+
