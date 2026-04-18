@@ -3,9 +3,6 @@
   <i>Software Engineer • Full-stack Developer</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcellandreas&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=9ea3a0&icon_color=586069" alt="Stats" width="400" />
-</p>
 
 ---
 
@@ -19,7 +16,7 @@ A developer prioritizing efficiency over exhibition. Focused on clean architectu
 ---
 
 ### Stack
-`Golang` • `React / Next.js` • `PostgreSQL` • `Docker` • `AWS`
+`Golang` • `React / Next.js` • `PostgreSQL` • `Docker` • `AI`
 
 ---
 
@@ -27,6 +24,3 @@ A developer prioritizing efficiency over exhibition. Focused on clean architectu
 [LinkedIn](https://linkedin.com/in/marcell-andreas) / [Email](mailto:marcell@example.com)
 
 ---
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellandreas&theme=transparent&hide_border=true&stroke=586069&ring=9ea3a0&fire=9ea3a0&currStreakNum=fff" alt="Streak" width="350" />
-</p>
