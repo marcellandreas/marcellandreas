@@ -36,12 +36,3 @@ I am a Software Engineer & Full-stack Developer dedicated to building architectu
 
 <br>
 
-## Personal Interests & Projects
-- **Structural Design:** Senang mengeksplorasi proporsi mekanika dan desain struktur kompleks (seperti dalam simulasi dunia Terraria).
-- **Narrative Exploration:** Memiliki minat pada alur cerita bertema sejarah-fantasi dan pengembangan karakter.
-- **Technical Research:** Terus mendalami standar industri terbaru untuk pola UI dan efisiensi arsitektur backend.
-
----
-<p align="center">
-  <i>"Prioritizing efficiency over exhibition."</i>
-</p>
