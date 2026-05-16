@@ -1,17 +1,18 @@
 # Marcell Andreas Samadhani Duha
 
-I am a Software Engineer & Full-stack Developer dedicated to building architectural efficiency, concurrency, and clean code. I specialize in developing scalable backend systems and high-performance frontend applications.
+I am a Software Engineer and Full-stack Developer focused on building scalable systems, clean architecture, and reliable user experiences. I work across backend and frontend, with a strong interest in concurrency, system design, and maintainable code.
 
-- 🔭 **Currently working on:** **Industrix**, focusing on complex billing systems, event-driven architectures, and RBAC (Role-Based Access Control).
-- 🌱 **Proficient in:** Backend engineering with **Go**, microservices, and modern frontend ecosystems using **TypeScript** and **Next.js**.
-- 💡 **Key Expertise:** Implementing high-concurrency systems, database migrations, and interactive "Digital Twin" visualizations.
-- 💬 **Ask me about:** Clean architecture, Go (GORM/Concurrency), React state management (Jotai/Redux), or TailwindCSS.
+- 🔭 **Currently working on:** **Industrix**, focusing on billing systems, event-driven architecture, RBAC, access-level management, and platform scalability.
+- 🌱 **Proficient in:** Backend engineering with **Go**, microservices, database design, and modern frontend development with **TypeScript**, **React**, and **Next.js**.
+- 💡 **Key expertise:** High-concurrency systems, database migrations, authorization flows, API integration, and interactive **Digital Twin** visualizations.
+- 💬 **Ask me about:** Clean architecture, Go, GORM, concurrency, React state management, Jotai, Redux, TailwindCSS, or Refine.
 - 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/marcell-andreas) or [Email](mailto:marcell@example.com)
 - ⚡ **Philosophy:** *"Code is like humor. When you have to explain it, it’s bad."*
 
 <br>
 
 ## 🚀 Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,react,nextjs,tailwind,redux,postgres,mysql,docker,aws,github,postman,figma)](#)
 
 <br>
@@ -19,20 +20,22 @@ I am a Software Engineer & Full-stack Developer dedicated to building architectu
 ## Work & Project Highlights
 
 ### **Core Developer @ Industrix**
-- **System Architecture:** Merancang dan mengimplementasikan sistem penagihan (billing) dan manajemen fitur yang kompleks.
-- **Security & Migration:** Mengelola migrasi database besar untuk pemisahan profil pengguna serta implementasi skema privat untuk fungsi keamanan tingkat tinggi.
-- **Data Visualization:** Mengembangkan komponen **Digital Twin** untuk pipa perangkat keras FTM menggunakan SVG dan integrasi WebSocket untuk pembaruan status real-time.
+
+- **System Architecture:** Designed and implemented complex billing, subscription, licensing, and feature-access systems.
+- **RBAC & Access Control:** Worked on role-based access control, access-level flows, permission resolution, and migration from legacy role systems.
+- **Security & Migration:** Managed large database migrations, user profile separation, and private-schema security logic.
+- **Event-driven Systems:** Built and maintained backend flows involving event dispatching, background processes, and service-level integrations.
+- **Data Visualization:** Developed **Digital Twin** components for FTM hardware pipelines using SVG and WebSocket-based real-time updates.
 
 ### **Frontend Engineering**
-- **UI/UX Pattern:** Berpengalaman dalam membangun pola UI kompleks, termasuk fitur drag-and-drop dan manajemen state menggunakan **Jotai** dan framework **Refine**.
-- **Process Optimization:** Mengoptimalkan alur kerja digital pada operasional bisnis percetakan online melalui solusi perangkat lunak yang efisien.
+
+- **UI/UX Patterns:** Built complex admin and platform interfaces using **React**, **Next.js**, **Refine**, **TailwindCSS**, and modern component architecture.
+- **State Management:** Experienced with **Jotai**, **Redux**, and structured frontend data-provider patterns.
+- **Process Optimization:** Improved digital workflows for online printing and business operations through efficient software solutions.
 
 <br>
 
 ## Education & Certifications
 
-- **B.Sc. in Information Systems** @ Universitas Bina Sarana Informatika (Lulus 2024)
-- **AWS re/Start Graduate** @ Orbit Future Academy (Cloud Foundations & Infrastructure)
-
-<br>
-
+- **B.Sc. in Information Systems** @ Universitas Bina Sarana Informatika, 2024
+- **AWS re/Start Graduate** @ Orbit Future Academy, Cloud Foundations & Infrastructure
